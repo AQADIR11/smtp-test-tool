@@ -21,7 +21,7 @@ SMTP (Simple Mail Transfer Protocol) is a protocol used to send emails. When we 
 ---
 
 ## How to test SMTP Server?  
-Santap server testing is now easy with our **Free SMTP Test Tool**.
+SMTP server testing is now easy with our **Free SMTP Test Tool**.
 
 👉 Try it here: [SMTP Test Tool](https://quiksim.net/smtp-test)  
 
