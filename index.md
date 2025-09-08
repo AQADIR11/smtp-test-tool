@@ -23,7 +23,7 @@ SMTP (Simple Mail Transfer Protocol) is a protocol used to send emails. When we 
 ## How to test SMTP Server?  
 SMTP server testing is now easy with our **Free SMTP Test Tool**.
 
-👉 Try it here: [SMTP Test Tool](https://quiksim.net/smtp-test)  
+👉 Try it here: [SMTP Test Tool](https://tools.codestrail.com/smtp-test-tool)  
 
 Steps:  
 1. Enter server address
@@ -44,4 +44,4 @@ Steps:
 ---
 
 ## Conclusion   
-If you run your business through emails, then you cannot ignore testing the SMTP server. Try now **[Free SMTP Test Tool](https://quiksim.net/smtp-test)** to check your server and make your email system reliable.
+If you run your business through emails, then you cannot ignore testing the SMTP server. Try now **[Free SMTP Test Tool](https://tools.codestrail.com/smtp-test-tool)** to check your server and make your email system reliable.
